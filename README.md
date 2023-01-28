@@ -1,11 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Flavio</h1>
 <h3 align="center">A passionate developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.it/pin/204702745549241158/”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavio0410&label=Profile%20views&color=0e75b6&style=flat" alt="flavio0410" /> </p>
 
-
+<p align="left"> <a href="https://twitter.com/flavio_gezzi" target="blank"><img src="https://img.shields.io/twitter/follow/flavio_gezzi?logo=twitter&style=for-the-badge" alt="flavio_gezzi" /></a> </p>
 
 - 📫 How to reach me **flavio.gezzi@gmail.com**
 
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio0410&show_icons=true&locale=en&layout=compact" alt="flavio0410" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio0410&show_icons=true&locale=en" alt="flavio0410" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flavio0410&" alt="flavio0410" /></p>
