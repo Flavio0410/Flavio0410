@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flavio</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavio0410&label=Profile%20views&color=0e75b6&style=flat" alt="flavio0410" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavio0410&label=Profile%20views&color=0e75b6&style=flat" alt="flavio0410" /><img src="https://www.pinterest.it/pin/204702745549241158/" width="40" height="40" /> </p>
+
 
 - 📫 How to reach me **flavio.gezzi@gmail.com**
 
