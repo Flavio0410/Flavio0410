@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavio0410&label=Profile%20views&color=0e75b6&style=flat" alt="flavio0410" /></p>
 ![dev](https://user-images.githubusercontent.com/104679150/215299014-f8343b2d-71eb-49c1-add8-23c6137c7818.gif)
+![me](https://github.com/Flavio0410/Flavio0410/blob/master/dev.gif)
 
 
 - 📫 How to reach me **flavio.gezzi@gmail.com**
